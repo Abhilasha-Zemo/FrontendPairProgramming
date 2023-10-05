@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "amount": 14000,
+    "date": "14-Mar-2023",
+    "name": "Abhilasha",
+    "receiptNo": 12342
+  },
+  {
+    "id": "2",
+    "amount": 14000,
+    "date": "14-Mar-2023",
+    "name": "Roni",    
+    "receiptNo": 12342
+  },
+  {
+    "id": "3",
+    "amount": 14000,
+    "date": "14-Mar-2023",
+    "name": "Oshin",
+    "receiptNo": 12342
+  },
+  {
+    "id": "4",
+    "amount": 14000,
+    "date": "14-Mar-2023",
+    "name": "Supriya",
+    "receiptNo": 12342
+  },
+  {
+    "id": "5",
+    "amount": 14000,
+    "date": "14-Mar-2023",
+    "name": "Sandeep",
+    "receiptNo": 12342
+  },
+  {
+    "id": "6",
+    "amount": 14000,
+    "date": "14-Mar-2023",
+    "name": "Sudhakar",
+    "receiptNo": 12342
+  }
+]
